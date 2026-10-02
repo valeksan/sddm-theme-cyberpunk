@@ -1,0 +1,23 @@
+sddm-theme-cyberpunk
+Copyright (c) 2026 valeksan
+
+This theme is a derivative work of the "Breeze" SDDM theme shipped with SDDM
+and its Kubuntu branding variant. The original QML files carry SPDX
+copyright and license headers; those headers are preserved verbatim in the
+corresponding files and are authoritative for the original portions.
+
+Notable upstream authors (from the SPDX headers in this repository):
+
+  - David Edmundson <davidedmundson@kde.org>
+  - Aleix Pol Gonzalez <aleixpol@kde.org>, <aleixpol@blue-systems.com>
+  - Martin Gräßlin <mgraesslin@kde.org>
+  - Boudhayan Gupta <bgupta@kde.org>
+  - ivan (@ratijas) tkachenko <me@ratijas.tk>
+  - Scarlett Moore (Kubuntu theme preview/branding), KDE Visual Design Group
+
+Upstream licenses of the original files: LGPL-2.0-or-later, GPL-2.0-or-later
+and "LGPL-2.1-only OR LGPL-3.0-only OR LicenseRef-KDE-Accepted-LGPL" (see the
+individual files).
+
+Qt6 port, neon color restyle, bundled wallpaper, packaging and documentation:
+valeksan, 2026 — licensed GPL-2.0-or-later (see LICENSE).

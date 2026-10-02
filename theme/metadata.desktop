@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+QtVersion=6
+Name=Cyberpunk
+Description=Neon cyberpunk SDDM theme (Qt6) — synthwave gradient, cyan glow clock, anonymous avatar
+Author=valeksan
+Copyright=valeksan and KDE contributors. Based on SDDM Breeze / Kubuntu themes by KDE.
+License=GPL-2.0-or-later
+Type=sddm-theme
+Version=1.0.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=cyberpunk
